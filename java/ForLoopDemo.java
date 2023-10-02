@@ -1,4 +1,4 @@
-package forLoopDemo;
+package java;
 
 public class ForLoopDemo {
     public static void main(String[] args) {
