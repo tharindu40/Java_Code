@@ -15,4 +15,8 @@ public class Calculator {
         return (double) num1 / num2;
     }
 
+    public int changeSign(int num){
+        return -num;
+    }
+
 }
