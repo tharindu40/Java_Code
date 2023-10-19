@@ -1,5 +1,6 @@
+package java;
 
-public  class ForLoopDemo {
+public class ForLoopDemo {
     public static void main(String[] args) {
 
         int n = 5;
